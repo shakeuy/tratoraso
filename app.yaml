@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: tratoraso
+owner: shakeuy
+package: .
+scaling:
+  mode: single_concurrency
